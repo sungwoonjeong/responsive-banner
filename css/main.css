@@ -16,6 +16,13 @@ html {
   background: #efefef;
 }
 
+@media only screen and (min-width: 38em) {
+
+  .btn {
+    float: right;
+  }
+}
+
 @media only screen and (min-width: 60em) {
 
   .banner {
