@@ -1,3 +1,17 @@
+html {
+  font-family: Georgia, serif;
+  color: #fff;
+}
+
 img {
   max-height: 500px;
+}
+
+.content {
+  background-color: #495562;
+}
+
+.btn {
+  color: #fff;
+  border-color: #97a49b;
 }
